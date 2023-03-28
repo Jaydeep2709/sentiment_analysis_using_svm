@@ -1,6 +1,9 @@
 pandas
 numpy
 seaborn
-sys
-
--e.
+#sys
+textblob
+nltk
+scikit-learn
+sklearn
+#-e.
