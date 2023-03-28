@@ -6,4 +6,6 @@ textblob
 nltk
 scikit-learn
 sklearn
+matplotlib
+#wordcloud
 #-e.
