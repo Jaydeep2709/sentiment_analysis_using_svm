@@ -1,0 +1,10 @@
+[ 2023-03-29 22:46:39,496 ] 2 root - INFO - Data processing finished successfully.
+[ 2023-03-29 22:46:39,572 ] 2 root - INFO - Duplicate tweet data removed from the dataset.
+[ 2023-03-29 22:47:00,689 ] 2 root - INFO - Polarity is assigned to data successfully.
+[ 2023-03-29 22:47:00,966 ] 2 root - INFO - Sentiment add successfully.
+[ 2023-03-29 22:47:01,418 ] 4 root - INFO - Positive tweets dataframe created successfully.
+[ 2023-03-29 22:47:01,555 ] 4 root - INFO - Negative tweets dataframe created successfully.
+[ 2023-03-29 22:47:01,684 ] 4 root - INFO - Neutral tweets dataframe created successfully.
+[ 2023-03-29 22:47:07,838 ] 2 root - INFO - Dataframe divided into train and test successfully.
+[ 2023-03-29 22:47:15,482 ] 4 root - INFO - Module got test accuracy of  96.19%
+[ 2023-03-29 22:47:19,806 ] 3 root - INFO - PKL file created successfully.
